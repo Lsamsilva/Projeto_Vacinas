@@ -1,27 +1,24 @@
-# VacinasNoBrasil
+# Vacinas No Brasil
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
+Este projeto foi gerado com [Angular CLI] (https://github.com/angular/angular-cli) version 12.0.4 e se encontra _em construção_.
+Projeto iniciado em : 18/06/2021
 
-## Development server
+## O Projeto!
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Este projeto foi idealizado nesta primeira etapa para listar as principais diferenças entre as vacinas contra Covid aprovadas pela Anvisa para uso no Brasil.
+São elas: 
+[] Coronav
+[] Astrazeneca
+[] Pfizer
+[] Janssen
 
-## Code scaffolding
+**A vacina Sputinik ainda não entrou nesta lista pois seu uso foi,  considerando esta data: _18/06/2021_ , autorizado de maneira parcial.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+### Próximos passos do Projeto:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+O objetivo final é fazer uma aplicação compatível com o Calendário de Vacinação Brasileiro, organizado através do [Programa Nacional de Imunizações](https://portalarquivos.saude.gov.br/campanhas/pni/), separado por faixas etárias. Listando informações de cada uma delas, tais como:  quantidade de doses necessárias e o seu intevalo; para quais doenças essas vacinas protegem; informações básicas sobre tais doenças e possíveis contra-indicações. Além disso, manter uma aba com as atualizações específicas para as vacinas contra o Coronavírus.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### FONTES: 
+[Instituto Butantã](https://butantan.gov.br/covid/butantan-tira-duvida/tira-duvida-noticias/quais-sao-as-diferencas-entre-as-vacinas-contra-covid-19-que-estao-sendo-aplicadas-no-brasil)

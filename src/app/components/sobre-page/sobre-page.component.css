@@ -9,3 +9,6 @@
 .wrapper p{
   font-weight: bold;
 }
+.img{
+  max-width: 80%;
+}

@@ -1,0 +1,10 @@
+#principal{
+  text-align:justify;
+  max-width: 90%;
+  margin-top: 20px;
+  margin-left: 20px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

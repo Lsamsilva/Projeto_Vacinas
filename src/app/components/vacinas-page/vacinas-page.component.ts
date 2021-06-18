@@ -16,7 +16,7 @@ export class VacinasPageComponent implements OnInit {
 
     this.vacinas = [
       {
-        nome : 'Coronav',
+        nome : 'Coronavac',
         tecnologia : 'Vírus Inativo',
         eficacia : 'Global: 62.3%',
         intervaloDoses : '14 a 28 dias',
